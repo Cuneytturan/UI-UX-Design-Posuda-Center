@@ -1,1 +1,2 @@
-# UI-UX-Design-Posuda-Center
+# UI- UX Design INF 228
+Project Name # Posuda Center
